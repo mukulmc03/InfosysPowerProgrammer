@@ -22,6 +22,10 @@ public class Client {
 		this.reqDesingServices = reqDesingServices;
 	}
 
+	public Client() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public String getReqKitchenDesign() {
 		return reqKitchenDesign;
 	}
