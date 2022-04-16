@@ -14,7 +14,7 @@ public class TestHomeDecor {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String[] reqDesignServices = {"Flooring", "Lighting", "Cabinet"};
+		String[] reqDesignServices = {};
 		Client c = new Client("Modular", "Mukul", reqDesignServices);
 		Client c2 = new Client("Modular", "Rahul", reqDesignServices);
 		
